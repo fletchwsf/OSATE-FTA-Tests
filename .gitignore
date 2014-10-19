@@ -41,3 +41,13 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.aadlsettings
+*.project
+*.fta
+*.ped
+*.xml
+*.crp
+*.mcs
+*.prp
+*.vrp

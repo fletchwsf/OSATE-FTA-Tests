@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?>
+<instance:SystemInstance xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aadl2="http://aadl.info/AADL/2.0" xmlns:instance="http://aadl.info/AADL/2.0/instance" xmi:id="_13L1UEmuEeSaIMQ2ZRNgvg" name="main_complete_Instance" category="system">
+  <componentInstance xmi:id="_13VmUEmuEeSaIMQ2ZRNgvg" name="left" category="device">
+    <subcomponent xsi:type="aadl2:DeviceSubcomponent" href="../packages/Fault_tree_0.aadl#//@ownedPublicSection/@ownedClassifier.3/@ownedDeviceSubcomponent.0"/>
+    <index>0</index>
+  </componentInstance>
+  <componentInstance xmi:id="_13VmUUmuEeSaIMQ2ZRNgvg" name="right" category="device">
+    <subcomponent xsi:type="aadl2:DeviceSubcomponent" href="../packages/Fault_tree_0.aadl#//@ownedPublicSection/@ownedClassifier.3/@ownedDeviceSubcomponent.1"/>
+    <index>0</index>
+  </componentInstance>
+  <systemOperationMode xmi:id="_13ewQEmuEeSaIMQ2ZRNgvg" name="No Modes"/>
+  <systemImplementation href="../packages/Fault_tree_0.aadl#Fault_tree_0.main.complete"/>
+</instance:SystemInstance>
